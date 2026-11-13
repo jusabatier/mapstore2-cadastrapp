@@ -53,4 +53,4 @@ export const cadastrappIcon = `<svg
        id="path7519" />
   </g>
 </svg>
-`
+`;

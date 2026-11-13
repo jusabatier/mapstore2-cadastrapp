@@ -2,7 +2,6 @@ import React from "react";
 import { connect } from "react-redux";
 import { toggleControl } from "@mapstore/actions/controls";
 
-import {Glyphicon} from 'react-bootstrap';
 import Message from "@mapstore/components/I18N/Message";
 import Main from './cadastrapp/Main';
 import init from '../enhancers/init';
